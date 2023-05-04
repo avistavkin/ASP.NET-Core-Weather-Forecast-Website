@@ -117,10 +117,14 @@
       "Newtonsoft.Json/13.0.2": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       },
       "popper.js/1.16.0": {
@@ -345,19 +349,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\avist\\.nuget\\packages\\": {}
+    "/Users/anvistavkin/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\avist\\OneDrive\\Desktop\\GitHub\\ASP.NET-Core-Weather-Forecast-Website\\RagoWeather.csproj",
+      "projectUniqueName": "/Users/anvistavkin/Documents/GitHub/ASP.NET-Core-Weather-Forecast-Website/RagoWeather.csproj",
       "projectName": "RagoWeather",
-      "projectPath": "C:\\Users\\avist\\OneDrive\\Desktop\\GitHub\\ASP.NET-Core-Weather-Forecast-Website\\RagoWeather.csproj",
-      "packagesPath": "C:\\Users\\avist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\avist\\OneDrive\\Desktop\\GitHub\\ASP.NET-Core-Weather-Forecast-Website\\obj\\",
+      "projectPath": "/Users/anvistavkin/Documents/GitHub/ASP.NET-Core-Weather-Forecast-Website/RagoWeather.csproj",
+      "packagesPath": "/Users/anvistavkin/.nuget/packages/",
+      "outputPath": "/Users/anvistavkin/Documents/GitHub/ASP.NET-Core-Weather-Forecast-Website/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\avist\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/anvistavkin/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -367,6 +371,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -378,6 +383,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Newtonsoft.Json": {
             "target": "Package",
@@ -394,7 +400,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -406,7 +413,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }

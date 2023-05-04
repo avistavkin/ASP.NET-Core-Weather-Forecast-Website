@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "P9zWbkEUEIJOvJZJc+gKDjecjvZsPbQEYtt0R9z22Ew6PoTRC0N9bWdojIWTtmbSa38miBnNLuSFvOvSt2//jg==",
+  "dgSpecHash": "tz733UjkF7sTWEfkvO7u0sKufzjkamoudd1NRKkXLFGido7QWeDk8JAMqS9/Ym3tIJccAOaHUzz5ouVX7hRncw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\avist\\OneDrive\\Desktop\\GitHub\\ASP.NET-Core-Weather-Forecast-Website\\RagoWeather.csproj",
+  "projectFilePath": "/Users/anvistavkin/Documents/GitHub/ASP.NET-Core-Weather-Forecast-Website/RagoWeather.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\avist\\.nuget\\packages\\bootstrap\\4.5.0\\bootstrap.4.5.0.nupkg.sha512",
-    "C:\\Users\\avist\\.nuget\\packages\\jquery\\3.0.0\\jquery.3.0.0.nupkg.sha512",
-    "C:\\Users\\avist\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
-    "C:\\Users\\avist\\.nuget\\packages\\popper.js\\1.16.0\\popper.js.1.16.0.nupkg.sha512"
+    "/Users/anvistavkin/.nuget/packages/bootstrap/4.5.0/bootstrap.4.5.0.nupkg.sha512",
+    "/Users/anvistavkin/.nuget/packages/jquery/3.0.0/jquery.3.0.0.nupkg.sha512",
+    "/Users/anvistavkin/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/Users/anvistavkin/.nuget/packages/popper.js/1.16.0/popper.js.1.16.0.nupkg.sha512"
   ],
   "logs": []
 }
