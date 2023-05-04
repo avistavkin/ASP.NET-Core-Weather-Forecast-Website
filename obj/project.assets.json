@@ -349,19 +349,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/anvistavkin/.nuget/packages/": {}
+    "C:\\Users\\avist\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anvistavkin/Documents/GitHub/ASP.NET-Core-Weather-Forecast-Website/RagoWeather.csproj",
+      "projectUniqueName": "C:\\Users\\avist\\OneDrive\\Desktop\\GitHub\\ASP.NET-Core-Weather-Forecast-Website\\RagoWeather.csproj",
       "projectName": "RagoWeather",
-      "projectPath": "/Users/anvistavkin/Documents/GitHub/ASP.NET-Core-Weather-Forecast-Website/RagoWeather.csproj",
-      "packagesPath": "/Users/anvistavkin/.nuget/packages/",
-      "outputPath": "/Users/anvistavkin/Documents/GitHub/ASP.NET-Core-Weather-Forecast-Website/obj/",
+      "projectPath": "C:\\Users\\avist\\OneDrive\\Desktop\\GitHub\\ASP.NET-Core-Weather-Forecast-Website\\RagoWeather.csproj",
+      "packagesPath": "C:\\Users\\avist\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\avist\\OneDrive\\Desktop\\GitHub\\ASP.NET-Core-Weather-Forecast-Website\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/anvistavkin/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\avist\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -413,7 +413,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
