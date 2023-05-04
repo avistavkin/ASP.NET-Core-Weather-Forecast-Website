@@ -1,37 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\simone.ragonesi\\source\\repos\\RagoWeather\\RagoWeather\\RagoWeather.csproj": {}
+    "/Users/anvistavkin/Documents/GitHub/ASP.NET-Core-Weather-Forecast-Website/RagoWeather.csproj": {}
   },
   "projects": {
-    "C:\\Users\\simone.ragonesi\\source\\repos\\RagoWeather\\RagoWeather\\RagoWeather.csproj": {
+    "/Users/anvistavkin/Documents/GitHub/ASP.NET-Core-Weather-Forecast-Website/RagoWeather.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simone.ragonesi\\source\\repos\\RagoWeather\\RagoWeather\\RagoWeather.csproj",
+        "projectUniqueName": "/Users/anvistavkin/Documents/GitHub/ASP.NET-Core-Weather-Forecast-Website/RagoWeather.csproj",
         "projectName": "RagoWeather",
-        "projectPath": "C:\\Users\\simone.ragonesi\\source\\repos\\RagoWeather\\RagoWeather\\RagoWeather.csproj",
-        "packagesPath": "C:\\Users\\simone.ragonesi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simone.ragonesi\\source\\repos\\RagoWeather\\RagoWeather\\obj\\",
+        "projectPath": "/Users/anvistavkin/Documents/GitHub/ASP.NET-Core-Weather-Forecast-Website/RagoWeather.csproj",
+        "packagesPath": "/Users/anvistavkin/.nuget/packages/",
+        "outputPath": "/Users/anvistavkin/Documents/GitHub/ASP.NET-Core-Weather-Forecast-Website/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\simone.ragonesi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/anvistavkin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/nuget": {},
-          "https://nuget.vem.com/nuget/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -43,10 +36,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.3, )"
+              "version": "[13.0.2, )"
             },
             "bootstrap": {
               "target": "Package",
@@ -59,7 +53,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -71,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
